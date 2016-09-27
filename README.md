@@ -2,7 +2,7 @@
 
 A brief comparison of three different responsive websites
 
-**Website 1: Easyjet.com**
+**Website 1: easyjet.com**
 
 The first responsive website that I discovered was from the airline easyjet below are comparison images of what the webpage is displayed like on a normal sized monitor and then on an iphone 6.
 
@@ -14,5 +14,17 @@ The first responsive website that I discovered was from the airline easyjet belo
 **iPhone 6 display**
 
 ![Easyjet Comparison](easyjetiphone6.jpg)
+
+**Website 2: wwf.org.uk**
+
+The second repsonsive page that I discovered was the website for WWF the World Wildlife Federation below are comparison images from the display on a pc compared to an iPad.
+
+**PC display**
+![WWF Comparison](wwfpc.jpg)
+
+
+**iPad display**
+
+![WWF Comparison](wwfipad.jpg)
 
 
