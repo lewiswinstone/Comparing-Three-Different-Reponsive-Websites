@@ -7,4 +7,9 @@ A brief comparison of three different responsive websites
 The first responsive website that I discovered was from the airline easyjet below are comparison images of what the webpage is displayed like on a normal sized monitor and then on an iphone 6.
 
 **PC display**
-![Easyjet Comparison]()
+![Easyjet Comparison](easyjetpc.jpg)
+
+**iPhone 6 display**
+![Easyjet Comparison](easyjetiphone6.jpg)
+
+
