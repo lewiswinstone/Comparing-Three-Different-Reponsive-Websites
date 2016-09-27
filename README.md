@@ -20,6 +20,7 @@ The first responsive website that I discovered was from the airline easyjet belo
 The second repsonsive page that I discovered was the website for WWF the World Wildlife Federation below are comparison images from the display on a pc compared to an iPad.
 
 **PC display**
+
 ![WWF Comparison](wwfpc.jpg)
 
 
@@ -33,8 +34,10 @@ The second repsonsive page that I discovered was the website for WWF the World W
 The final responsive website is of the news publisher the Guardian below are comparison images of it's website displayed on a PC and then on a Galaxy S5.
 
 **PC display**
+
 ![Guardian Comparison](guardianpc.jpg)
 
 
 **Galaxy S5 display**
+
 ![Guardian Comparison](guardiangalaxys5.jpg)
